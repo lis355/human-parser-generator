@@ -7,4 +7,7 @@ tmp
 *.mdb
 TestResult.xml
 bin
-
+.vs
+obj
+*.user
+exe
